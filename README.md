@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @TypeTen
+- 👀 I’m interested in lots of things
+- 🌱 I’m currently learning a lot of stuff
+- 💞️ I’m looking to collaborate on nothing because I'm human shit
+- 📫 How to reach me: with long arms
