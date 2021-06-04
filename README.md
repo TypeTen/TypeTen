@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TypeTen
 - 👀 I’m interested in lots of things
 - 🌱 I’m currently learning a lot of stuff
-- 💞️ I’m looking to collaborate on nothing because I'm human shit
+- 💞️ I’m looking to collaborate on nothing because I'm human shit (but I do like Rust, even if all of my projects abort before they draw)
 - 📫 How to reach me: with long arms
